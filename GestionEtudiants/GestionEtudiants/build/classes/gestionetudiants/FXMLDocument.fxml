@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" prefHeight="619.0" prefWidth="856.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.111" fx:controller="gestionetudiants.FXMLDocumentController">
+   <children>
+      <Pane layoutX="66.0" layoutY="64.0" prefHeight="472.0" prefWidth="720.0" style="-fx-background-color: C0C0C0;">
+         <children>
+            <Text layoutX="194.0" layoutY="61.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Fenêtre De Connexion">
+               <font>
+                  <Font name="System Bold" size="32.0" />
+               </font>
+            </Text>
+            <Text layoutX="107.0" layoutY="202.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Login">
+               <font>
+                  <Font name="System Bold" size="27.0" />
+               </font>
+            </Text>
+            <Text layoutX="107.0" layoutY="289.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Mot De Passe">
+               <font>
+                  <Font name="System Bold" size="27.0" />
+               </font>
+            </Text>
+            <TextField layoutX="302.0" layoutY="178.0" prefHeight="25.0" prefWidth="224.0" />
+            <PasswordField layoutX="305.0" layoutY="265.0" prefHeight="25.0" prefWidth="224.0" />
+            <Button layoutX="417.0" layoutY="404.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="122.0" text="Connexion">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font>
+            </Button>
+            <Button layoutX="194.0" layoutY="404.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="122.0" text="Annuler">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font>
+            </Button>
+            <Text fill="#eb0d0d" layoutX="249.0" layoutY="356.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Login ou Mot De Passe Incorrect">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

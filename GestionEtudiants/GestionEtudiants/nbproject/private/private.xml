@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/DELL/Documents/GestionEtudiants/GestionEtudiants/src/gestionetudiants/GestionEtudiants.java</file>
+            <file>file:/C:/Users/DELL/Documents/GestionEtudiants/GestionEtudiants/src/dao/IDao.java</file>
+            <file>file:/C:/Users/DELL/Documents/GestionEtudiants/GestionEtudiants/src/Models/Etudiant.java</file>
+            <file>file:/C:/Users/DELL/Documents/GestionEtudiants/GestionEtudiants/src/dao/DaoDetails.java</file>
+            <file>file:/C:/Users/DELL/Documents/GestionEtudiants/GestionEtudiants/src/Cour/Exercice1.java</file>
+            <file>file:/C:/Users/DELL/Documents/GestionEtudiants/GestionEtudiants/src/Models/Classe.java</file>
+            <file>file:/C:/Users/DELL/Documents/GestionEtudiants/GestionEtudiants/src/dao/DaoPersonne.java</file>
+            <file>file:/C:/Users/DELL/Documents/GestionEtudiants/GestionEtudiants/src/gestionetudiants/FXMLDocumentController.java</file>
+            <file>file:/C:/Users/DELL/Documents/GestionEtudiants/GestionEtudiants/src/dao/DaoClasse.java</file>
+            <file>file:/C:/Users/DELL/Documents/GestionEtudiants/GestionEtudiants/src/dao/test/TestDao.java</file>
+            <file>file:/C:/Users/DELL/Documents/GestionEtudiants/GestionEtudiants/src/Models/Admin.java</file>
+            <file>file:/C:/Users/DELL/Documents/GestionEtudiants/GestionEtudiants/src/Metier/Service.java</file>
+            <file>file:/C:/Users/DELL/Documents/GestionEtudiants/GestionEtudiants/src/Models/Details.java</file>
+            <file>file:/C:/Users/DELL/Documents/GestionEtudiants/GestionEtudiants/src/Models/Professeur.java</file>
+            <file>file:/C:/Users/DELL/Documents/GestionEtudiants/GestionEtudiants/src/Models/Personne.java</file>
+            <file>file:/C:/Users/DELL/Documents/GestionEtudiants/GestionEtudiants/src/dao/DaoMysql.java</file>
+        </group>
+    </open-files>
+</project-private>
